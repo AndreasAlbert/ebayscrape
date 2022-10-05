@@ -1,0 +1,4 @@
+name: ebayscrape
+dependencies:
+    - python
+    - scrapy
